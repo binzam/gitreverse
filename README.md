@@ -82,3 +82,9 @@ pnpm test:library
 `test:library` runs credential-free regression tests for library filtering, source fallbacks, and outage handling.
 
 [Sponsor GitReverse](https://gitreverse.com/sponsor)
+
+## License
+
+GitReverse's source code is licensed under the [MIT License](LICENSE).
+
+Third-party dependencies and assets retain their respective licenses and rights. See the [sponsor asset sources](public/sponsors/SOURCES.md) for the existing brand-asset notices.
